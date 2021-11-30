@@ -4,15 +4,21 @@ This repo is for testing purposes only. It takes a password and checks its stren
 
 ## 1. Clone this repo by running the following command
 
-### `git clone https://github.com/codex-franco/passwordstrengthchecker`
+```bash
+git clone https://github.com/codex-franco/passwordstrengthchecker
+```
 
 ## 2. On Application Folder, install packages by running command below
 
-### `npm i`
+```bash
+npm i
+```
 
 ## 3. To Run this project
 
-### `npm start`
+```bash
+npm start
+```
 
 ## If you want to use yarn, follow the steps below
 
