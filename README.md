@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Password Strength Checker
+
+This repo is for testing purposes only. It takes a password and checks its strength by calling an API.
+
+## 1. Clone this repo by running the following command
+
+### `git clone https://github.com/codex-franco/passwordstrengthchecker`
+
+## 2. On Application Folder, install packages by running command below
+
+### `npm i`
+
+## 3. To Run this project
+
+### `npm start`
+
+## If you want to use yarn, follow the steps below
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
