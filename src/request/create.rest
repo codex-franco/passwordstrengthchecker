@@ -1,0 +1,5 @@
+POST https://o9etf82346.execute-api.us-east-1.amazonaws.com/staging/password/strength Content-Type: application/json
+
+{
+"password": "password123"
+}
